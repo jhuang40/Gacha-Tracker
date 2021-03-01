@@ -1,0 +1,20 @@
+{"Storage": [
+    {
+        "quantity": 300,
+        "stamina": 20,
+        "name": "Stakes",
+        "time": 200
+    },
+    {
+        "quantity": 200,
+        "stamina": 20,
+        "name": "Chains",
+        "time": 200
+    },
+    {
+        "quantity": 100,
+        "stamina": 10,
+        "name": "Bones",
+        "time": 100
+    }
+]}

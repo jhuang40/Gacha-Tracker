@@ -1,0 +1,26 @@
+{"Storage": [
+    {
+        "quantity": 100,
+        "stamina": 100,
+        "name": "Gold",
+        "time": 100
+    },
+    {
+        "quantity": 200,
+        "stamina": 200,
+        "name": "Silver",
+        "time": 200
+    },
+    {
+        "quantity": 200,
+        "stamina": 200,
+        "name": "Silver",
+        "time": 200
+    },
+    {
+        "quantity": 200,
+        "stamina": 200,
+        "name": "Silver",
+        "time": 200
+    }
+]}
